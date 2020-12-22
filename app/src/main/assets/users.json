@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "Ashley",
+      "sex": "UNKNOWN",
+      "phone": "(994) 600-2411"
+    },
+    {
+      "name": "Dorthy",
+      "sex": "WOMAN",
+      "phone": "(982) 427-3601"
+    },
+    {
+      "name": "Chase",
+      "sex": "UNKNOWN",
+      "phone": "(886) 413-3004"
+    },
+    {
+      "name": "Key",
+      "sex": "MAN",
+      "phone": "(964) 405-3212"
+    },
+    {
+      "name": "Whitney",
+      "sex": "WOMAN",
+      "phone": "(868) 442-2744"
+    },
+    {
+      "name": "Courtney",
+      "sex": "UNKNOWN",
+      "phone": "(945) 483-2287"
+    },
+    {
+      "name": "Avila",
+      "sex": "MAN",
+      "phone": "(837) 574-3917"
+    },
+    {
+      "name": "Samantha",
+      "sex": "MAN",
+      "phone": "(945) 425-2602"
+    },
+    {
+      "name": "Madge",
+      "sex": "UNKNOWN",
+      "phone": "(899) 544-2556"
+    },
+    {
+      "name": "Black",
+      "sex": "WOMAN",
+      "phone": "(937) 501-3419"
+    },
+    {
+      "name": "Melody",
+      "sex": "WOMAN",
+      "phone": "(808) 501-3835"
+    },
+    {
+      "name": "Lancaster",
+      "sex": "WOMAN",
+      "phone": "(873) 552-2624"
+    },
+    {
+      "name": "Sanford",
+      "sex": "UNKNOWN",
+      "phone": "(821) 495-2607"
+    },
+    {
+      "name": "Pruitt",
+      "sex": "WOMAN",
+      "phone": "(883) 503-2346"
+    },
+    {
+      "name": "Vicki",
+      "sex": "MAN",
+      "phone": "(813) 555-3445"
+    },
+    {
+      "name": "Adeline",
+      "sex": "UNKNOWN",
+      "phone": "(978) 538-3868"
+    },
+    {
+      "name": "Caldwell",
+      "sex": "UNKNOWN",
+      "phone": "(936) 525-2858"
+    },
+    {
+      "name": "Heath",
+      "sex": "UNKNOWN",
+      "phone": "(892) 448-2380"
+    },
+    {
+      "name": "Rachael",
+      "sex": "WOMAN",
+      "phone": "(819) 410-2102"
+    },
+    {
+      "name": "Kelsey",
+      "sex": "MAN",
+      "phone": "(829) 497-2774"
+    },
+    {
+      "name": "Fleming",
+      "sex": "WOMAN",
+      "phone": "(942) 414-3959"
+    },
+    {
+      "name": "Wyatt",
+      "sex": "MAN",
+      "phone": "(972) 556-3524"
+    },
+    {
+      "name": "Haynes",
+      "sex": "UNKNOWN",
+      "phone": "(933) 553-3071"
+    },
+    {
+      "name": "Rocha",
+      "sex": "MAN",
+      "phone": "(906) 424-2070"
+    }
+  ]
+}
