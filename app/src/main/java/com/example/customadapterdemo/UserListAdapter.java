@@ -61,7 +61,7 @@ public class UserListAdapter extends BaseAdapter {
 
         // задаём содержание
         tvName.setText(u.name);
-        tvPhone.setText(u.phoneNumber);
+        tvPhone.setText(u.phone);
         switch (u.sex) {
             case MAN: ivUserpic.setImageResource(R.drawable.user_man); break;
             case WOMAN: ivUserpic.setImageResource(R.drawable.user_woman); break;
